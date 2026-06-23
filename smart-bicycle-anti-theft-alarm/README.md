@@ -1,7 +1,7 @@
 # Smart Bicycle Anti-Theft Alarm  
 ### A Tilt-Based Detection System with Temporal Filtering
 
-**Members:** ABDIHAKIM IBRAHIM - BSCCS/2023/63180 & THIRIMY JOY - BSCCS/2024/44193
+**Members:** ABDIHAKIM IBRAHIM - BSCCS/2023/63180 & THIAURI JOY - BSCCS/2024/44193
 **Course:** BPY1111 - Physics for Computing  
 **Project:** #19 – Smart Bicycle Anti-Theft Alarm  
 **Date:** 22ND June 2026
