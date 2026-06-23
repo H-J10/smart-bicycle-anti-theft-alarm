@@ -92,8 +92,8 @@ smart-bicycle-anti-theft-alarm/
 
 ## 7. Members Contributions
 
-- **Abdihakim Ibrahim :** Circuit design, algorithm implementation, and simulation testing.
-- **Thirimy Joy Gacheri :** Documentation, screenshot capture, and presentation preparation.
+- **Abdihakim Ibrahim Adan :** Circuit design, algorithm implementation, and simulation testing.
+- **Thiauri Joy Gacheri :** Documentation, screenshot capture, and presentation preparation.
 
 ---
 
